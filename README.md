@@ -4,6 +4,8 @@ In this project, we are going to play around with the [OpenWeatherMap API](https
 
 The users are also able to request the weather conditions in any city they wish by typing it in the search bar.
 
+https://user-images.githubusercontent.com/67716187/127340590-d21054df-60d4-4cc4-b6a8-d1d31d7c4e93.mov
+
 ## Specs
 
 Go to the Terminal, choose a directory where we wish to clone the repository and run:
